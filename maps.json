@@ -46,5 +46,61 @@
     "img":"",
     "lat":8.456283423746704,    
     "lng":124.82140795951253
-    }
+    },
+    {
+    "name":"Baranggay Dalirig",
+    "title": "Baranggay Dalirig",
+    "description":"Water Condition Status",
+    "img":"",
+    "lat":8.375452491778848,   
+    "lng":124.90449206557471  
+    },
+    {
+    "name":"Baranggay Agusan Canyon",
+    "title": "Baranggay Agusan Canyon",
+    "description":"Water Condition Status",
+    "img":"",
+    "lat":8.318385243936985,    
+    "lng":124.82552783230936 
+    },
+    {
+    "name":"Baranggay Maluko",
+    "title": "Baranggay Maluko",
+    "description":"Water Condition Status",
+    "img":"",
+    "lat":8.41077564609925, 
+    "lng":124.96217028813375
+    },   
+    {
+    "name":"Baranggay San Miguel",
+    "title": "Baranggay San Miguel",
+    "description":"Water Condition Status",
+    "img":"",
+    "lat":8.38122668845218, 
+    "lng":124.83441130855732
+    },    
+    {
+    "name":"Baranggay Lingion",
+    "title": "Baranggay Lingion",
+    "description":"Water Condition Status",
+    "img":"",
+    "lat":8.403367108855774,  
+    "lng":124.88971567151839
+    },
+    {
+    "name":"Baranggay Sankanan",
+    "title": "Baranggay Sankanan",
+    "description":"Water Condition Status",
+    "img":"",
+    "lat":8.328147963599692, 
+    "lng":124.85170243098752
+    }, 
+    {
+    "name":"Baranggay Sankanan",
+    "title": "Baranggay Sankanan",
+    "description":"Water Condition Status",
+    "img":"",
+    "lat":8.433857736053259, 
+    "lng":124.86551884032971
+    }                
 ]    

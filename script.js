@@ -1,8 +1,8 @@
     function initMap(mapDataUrl){
-        const map = L.map('map').setView([8.3603,124.8684],17);
+        const map = L.map('map').setView([8.390397295307483, 124.88526599138835],17);
 
     const openStreetMap = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{
-        maxZoom:19,
+        maxZoom:12,
         attribution:'&copy; OpenStreetMap contributors'
     });
 
